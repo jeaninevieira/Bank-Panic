@@ -1,0 +1,78 @@
+c:\users\12191867\documents\visual studio 2010\Projects\BankPanic\BankPanic\BankPanic\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\12191867\documents\visual studio 2010\Projects\BankPanic\BankPanic\BankPanic\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\12191867\documents\visual studio 2010\Projects\BankPanic\BankPanic\BankPanic\bin\x86\Debug\Content\CastleDoor1.xnb
+c:\users\12191867\documents\visual studio 2010\Projects\BankPanic\BankPanic\BankPanic\bin\x86\Debug\BankPanic.exe
+c:\users\12191867\documents\visual studio 2010\Projects\BankPanic\BankPanic\BankPanic\bin\x86\Debug\BankPanic.pdb
+c:\users\12191867\documents\visual studio 2010\Projects\BankPanic\BankPanic\BankPanic\obj\x86\Debug\BankPanic.exe
+c:\users\12191867\documents\visual studio 2010\Projects\BankPanic\BankPanic\BankPanic\obj\x86\Debug\BankPanic.pdb
+c:\users\12191867\documents\visual studio 2010\Projects\BankPanic\BankPanic\BankPanic\bin\x86\Debug\Content\CastleDoor2.xnb
+C:\Users\Lucas\Desktop\BankPanic\BankPanic\BankPanic\bin\x86\Debug\Content\CastleDoor1.xnb
+C:\Users\Lucas\Desktop\BankPanic\BankPanic\BankPanic\bin\x86\Debug\Content\CastleDoor2.xnb
+C:\Users\Lucas\Desktop\BankPanic\BankPanic\BankPanic\bin\x86\Debug\BankPanic.exe
+C:\Users\Lucas\Desktop\BankPanic\BankPanic\BankPanic\bin\x86\Debug\BankPanic.pdb
+C:\Users\Lucas\Desktop\BankPanic\BankPanic\BankPanic\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Lucas\Desktop\BankPanic\BankPanic\BankPanic\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Lucas\Desktop\BankPanic\BankPanic\BankPanic\obj\x86\Debug\BankPanic.exe
+C:\Users\Lucas\Desktop\BankPanic\BankPanic\BankPanic\obj\x86\Debug\BankPanic.pdb
+D:\PÓS\Programação\BankPanic\BankPanic\BankPanic\BankPanic\bin\x86\Debug\Content\CastleDoor1.xnb
+D:\PÓS\Programação\BankPanic\BankPanic\BankPanic\BankPanic\bin\x86\Debug\Content\CastleDoor2.xnb
+D:\PÓS\Programação\BankPanic\BankPanic\BankPanic\BankPanic\bin\x86\Debug\BankPanic.exe
+D:\PÓS\Programação\BankPanic\BankPanic\BankPanic\BankPanic\bin\x86\Debug\BankPanic.pdb
+D:\PÓS\Programação\BankPanic\BankPanic\BankPanic\BankPanic\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\PÓS\Programação\BankPanic\BankPanic\BankPanic\BankPanic\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\PÓS\Programação\BankPanic\BankPanic\BankPanic\BankPanic\obj\x86\Debug\BankPanic.exe
+D:\PÓS\Programação\BankPanic\BankPanic\BankPanic\BankPanic\obj\x86\Debug\BankPanic.pdb
+D:\PÓS\Programação\BankPanic\BankPanic\BankPanic\BankPanic\bin\x86\Debug\Content\bad.xnb
+D:\PÓS\Programação\BankPanic\BankPanic\BankPanic\BankPanic\bin\x86\Debug\Content\good.xnb
+C:\Users\Lucas\Documents\IA\BankPanic\BankPanic\BankPanic\bin\x86\Debug\Content\CastleDoor1.xnb
+C:\Users\Lucas\Documents\IA\BankPanic\BankPanic\BankPanic\bin\x86\Debug\Content\CastleDoor2.xnb
+C:\Users\Lucas\Documents\IA\BankPanic\BankPanic\BankPanic\bin\x86\Debug\Content\bad.xnb
+C:\Users\Lucas\Documents\IA\BankPanic\BankPanic\BankPanic\bin\x86\Debug\Content\good.xnb
+C:\Users\Lucas\Documents\IA\BankPanic\BankPanic\BankPanic\bin\x86\Debug\BankPanic.exe
+C:\Users\Lucas\Documents\IA\BankPanic\BankPanic\BankPanic\bin\x86\Debug\BankPanic.pdb
+C:\Users\Lucas\Documents\IA\BankPanic\BankPanic\BankPanic\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Lucas\Documents\IA\BankPanic\BankPanic\BankPanic\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Lucas\Documents\IA\BankPanic\BankPanic\BankPanic\obj\x86\Debug\BankPanic.exe
+C:\Users\Lucas\Documents\IA\BankPanic\BankPanic\BankPanic\obj\x86\Debug\BankPanic.pdb
+F:\BankPanic\BankPanic\BankPanic\bin\x86\Debug\Content\CastleDoor1.xnb
+F:\BankPanic\BankPanic\BankPanic\bin\x86\Debug\Content\CastleDoor2.xnb
+F:\BankPanic\BankPanic\BankPanic\bin\x86\Debug\Content\bad.xnb
+F:\BankPanic\BankPanic\BankPanic\bin\x86\Debug\Content\good.xnb
+F:\BankPanic\BankPanic\BankPanic\bin\x86\Debug\BankPanic.exe
+F:\BankPanic\BankPanic\BankPanic\bin\x86\Debug\BankPanic.pdb
+F:\BankPanic\BankPanic\BankPanic\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\BankPanic\BankPanic\BankPanic\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\BankPanic\BankPanic\BankPanic\obj\x86\Debug\BankPanic.exe
+F:\BankPanic\BankPanic\BankPanic\obj\x86\Debug\BankPanic.pdb
+C:\Users\Vanessa\Documents\lucasqueirozr-Bank-Panic-06252e7\BankPanic\BankPanic\bin\x86\Debug\Content\CastleDoor1.xnb
+C:\Users\Vanessa\Documents\lucasqueirozr-Bank-Panic-06252e7\BankPanic\BankPanic\bin\x86\Debug\Content\CastleDoor2.xnb
+C:\Users\Vanessa\Documents\lucasqueirozr-Bank-Panic-06252e7\BankPanic\BankPanic\bin\x86\Debug\Content\bad.xnb
+C:\Users\Vanessa\Documents\lucasqueirozr-Bank-Panic-06252e7\BankPanic\BankPanic\bin\x86\Debug\Content\good.xnb
+C:\Users\Vanessa\Documents\lucasqueirozr-Bank-Panic-06252e7\BankPanic\BankPanic\bin\x86\Debug\BankPanic.exe
+C:\Users\Vanessa\Documents\lucasqueirozr-Bank-Panic-06252e7\BankPanic\BankPanic\bin\x86\Debug\BankPanic.pdb
+C:\Users\Vanessa\Documents\lucasqueirozr-Bank-Panic-06252e7\BankPanic\BankPanic\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Vanessa\Documents\lucasqueirozr-Bank-Panic-06252e7\BankPanic\BankPanic\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Vanessa\Documents\lucasqueirozr-Bank-Panic-06252e7\BankPanic\BankPanic\obj\x86\Debug\BankPanic.exe
+C:\Users\Vanessa\Documents\lucasqueirozr-Bank-Panic-06252e7\BankPanic\BankPanic\obj\x86\Debug\BankPanic.pdb
+D:\PÓS\Euflorae-Bank-Panic\Euflorae-Bank-Panic-86affe0\BankPanic\BankPanic\bin\x86\Debug\Content\CastleDoor1.xnb
+D:\PÓS\Euflorae-Bank-Panic\Euflorae-Bank-Panic-86affe0\BankPanic\BankPanic\bin\x86\Debug\Content\CastleDoor2.xnb
+D:\PÓS\Euflorae-Bank-Panic\Euflorae-Bank-Panic-86affe0\BankPanic\BankPanic\bin\x86\Debug\Content\bad.xnb
+D:\PÓS\Euflorae-Bank-Panic\Euflorae-Bank-Panic-86affe0\BankPanic\BankPanic\bin\x86\Debug\Content\good.xnb
+D:\PÓS\Euflorae-Bank-Panic\Euflorae-Bank-Panic-86affe0\BankPanic\BankPanic\bin\x86\Debug\Content\mira.xnb
+D:\PÓS\Euflorae-Bank-Panic\Euflorae-Bank-Panic-86affe0\BankPanic\BankPanic\bin\x86\Debug\BankPanic.exe
+D:\PÓS\Euflorae-Bank-Panic\Euflorae-Bank-Panic-86affe0\BankPanic\BankPanic\bin\x86\Debug\BankPanic.pdb
+D:\PÓS\Euflorae-Bank-Panic\Euflorae-Bank-Panic-86affe0\BankPanic\BankPanic\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\PÓS\Euflorae-Bank-Panic\Euflorae-Bank-Panic-86affe0\BankPanic\BankPanic\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\PÓS\Euflorae-Bank-Panic\Euflorae-Bank-Panic-86affe0\BankPanic\BankPanic\obj\x86\Debug\BankPanic.exe
+D:\PÓS\Euflorae-Bank-Panic\Euflorae-Bank-Panic-86affe0\BankPanic\BankPanic\obj\x86\Debug\BankPanic.pdb
+D:\PÓS\BankPanic\BankPanic\BankPanic\bin\x86\Debug\Content\CastleDoor1.xnb
+D:\PÓS\BankPanic\BankPanic\BankPanic\bin\x86\Debug\Content\CastleDoor2.xnb
+D:\PÓS\BankPanic\BankPanic\BankPanic\bin\x86\Debug\Content\bad.xnb
+D:\PÓS\BankPanic\BankPanic\BankPanic\bin\x86\Debug\Content\good.xnb
+D:\PÓS\BankPanic\BankPanic\BankPanic\bin\x86\Debug\Content\mira.xnb
+D:\PÓS\BankPanic\BankPanic\BankPanic\bin\x86\Debug\BankPanic.exe
+D:\PÓS\BankPanic\BankPanic\BankPanic\bin\x86\Debug\BankPanic.pdb
+D:\PÓS\BankPanic\BankPanic\BankPanic\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\PÓS\BankPanic\BankPanic\BankPanic\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\PÓS\BankPanic\BankPanic\BankPanic\obj\x86\Debug\BankPanic.exe
+D:\PÓS\BankPanic\BankPanic\BankPanic\obj\x86\Debug\BankPanic.pdb

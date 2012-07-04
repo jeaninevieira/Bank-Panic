@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>CastleDoor1.png</Source>
+      <Name>CastleDoor1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\PÓS\BankPanic\BankPanic\BankPanic\bin\x86\Debug\Content\CastleDoor1.xnb</Output>
+      <Time>2012-07-01T13:42:14-03:00</Time>
+    </Item>
+    <Item>
+      <Source>CastleDoor2.png</Source>
+      <Name>CastleDoor2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\PÓS\BankPanic\BankPanic\BankPanic\bin\x86\Debug\Content\CastleDoor2.xnb</Output>
+      <Time>2012-07-01T13:42:14-03:00</Time>
+    </Item>
+    <Item>
+      <Source>bad.png</Source>
+      <Name>bad</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\PÓS\BankPanic\BankPanic\BankPanic\bin\x86\Debug\Content\bad.xnb</Output>
+      <Time>2012-07-01T13:42:14-03:00</Time>
+    </Item>
+    <Item>
+      <Source>good.png</Source>
+      <Name>good</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\PÓS\BankPanic\BankPanic\BankPanic\bin\x86\Debug\Content\good.xnb</Output>
+      <Time>2012-07-01T13:42:14-03:00</Time>
+    </Item>
+    <Item>
+      <Source>mira.png</Source>
+      <Name>mira</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\PÓS\BankPanic\BankPanic\BankPanic\bin\x86\Debug\Content\mira.xnb</Output>
+      <Time>2012-07-01T18:17:05.3341857-03:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{C745F43A-C7CF-4B75-9A6C-58649DA713E2}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>D:\PÓS\BankPanic\BankPanic\BankPanicContent\</RootDirectory>
+      <LoggerRootDirectory>D:\PÓS\BankPanic\BankPanic\BankPanic\</LoggerRootDirectory>
+      <IntermediateDirectory>D:\PÓS\BankPanic\BankPanic\BankPanic\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>D:\PÓS\BankPanic\BankPanic\BankPanic\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-04-29T16:11:52.581154-03:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

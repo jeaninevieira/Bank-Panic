@@ -1,0 +1,8 @@
+c:\users\12191867\documents\visual studio 2010\Projects\BankPanic\BankPanic\BankPanicContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Lucas\Desktop\BankPanic\BankPanic\BankPanicContent\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\PÓS\Programação\BankPanic\BankPanic\BankPanic\BankPanicContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Lucas\Documents\IA\BankPanic\BankPanic\BankPanicContent\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\BankPanic\BankPanic\BankPanicContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Vanessa\Documents\lucasqueirozr-Bank-Panic-06252e7\BankPanic\BankPanicContent\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\PÓS\Euflorae-Bank-Panic\Euflorae-Bank-Panic-86affe0\BankPanic\BankPanicContent\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\PÓS\BankPanic\BankPanic\BankPanicContent\obj\x86\Debug\ResolveAssemblyReference.cache
