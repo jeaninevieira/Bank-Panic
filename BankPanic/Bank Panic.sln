@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010 Express for Windows Phone
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bank Panic", "Bank Panic\Bank Panic\Bank Panic.csproj", "{019452E5-62C5-4480-9C8A-048B38359C33}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "Bank PanicContent", "Bank Panic\Bank PanicContent\Bank PanicContent.contentproj", "{3213917E-889C-4613-B67C-8B553FC8B9C2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{019452E5-62C5-4480-9C8A-048B38359C33}.Debug|x86.ActiveCfg = Debug|x86
+		{019452E5-62C5-4480-9C8A-048B38359C33}.Debug|x86.Build.0 = Debug|x86
+		{019452E5-62C5-4480-9C8A-048B38359C33}.Release|x86.ActiveCfg = Release|x86
+		{019452E5-62C5-4480-9C8A-048B38359C33}.Release|x86.Build.0 = Release|x86
+		{3213917E-889C-4613-B67C-8B553FC8B9C2}.Debug|x86.ActiveCfg = Debug|x86
+		{3213917E-889C-4613-B67C-8B553FC8B9C2}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+Content\Images\CastleDoor1.xnb
+Content\Images\CastleDoor2.xnb
+Content\Images\Door.xnb
+Content\Images\sprDoor.xnb
+Content\Images\sprTarget.xnb
+Content\Images\background_full.xnb
+Content\Images\doors.xnb

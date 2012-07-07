@@ -1,0 +1,2 @@
+Z:\Google Drive\Bank Panic\Bank Panic\Bank PanicContent\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\PÓS\BankPanic - Versions\Euflorae-Bank-Panic-9d350c8\Euflorae-Bank-Panic-9d350c8\Bank Panic\Bank PanicContent\obj\x86\Debug\ResolveAssemblyReference.cache

@@ -1,0 +1,24 @@
+Z:\Google Drive\Bank Panic\Bank Panic\Bank Panic\bin\x86\Debug\Bank Panic.exe
+Z:\Google Drive\Bank Panic\Bank Panic\Bank Panic\bin\x86\Debug\Bank Panic.pdb
+Z:\Google Drive\Bank Panic\Bank Panic\Bank Panic\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\Google Drive\Bank Panic\Bank Panic\Bank Panic\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+Z:\Google Drive\Bank Panic\Bank Panic\Bank Panic\obj\x86\Debug\Bank Panic.exe
+Z:\Google Drive\Bank Panic\Bank Panic\Bank Panic\obj\x86\Debug\Bank Panic.pdb
+Z:\Google Drive\Bank Panic\Bank Panic\Bank Panic\bin\x86\Debug\Content\Images\CastleDoor1.xnb
+Z:\Google Drive\Bank Panic\Bank Panic\Bank Panic\bin\x86\Debug\Content\Images\CastleDoor2.xnb
+Z:\Google Drive\Bank Panic\Bank Panic\Bank Panic\bin\x86\Debug\Content\Images\Door.xnb
+Z:\Google Drive\Bank Panic\Bank Panic\Bank Panic\bin\x86\Debug\Content\Images\sprDoor.xnb
+Z:\Google Drive\Bank Panic\Bank Panic\Bank Panic\bin\x86\Debug\Content\Images\sprTarget.xnb
+D:\PÓS\BankPanic - Versions\Euflorae-Bank-Panic-9d350c8\Euflorae-Bank-Panic-9d350c8\Bank Panic\Bank Panic\obj\x86\Debug\Bank Panic.exe
+D:\PÓS\BankPanic - Versions\Euflorae-Bank-Panic-9d350c8\Euflorae-Bank-Panic-9d350c8\Bank Panic\Bank Panic\obj\x86\Debug\Bank Panic.pdb
+D:\PÓS\BankPanic - Versions\Euflorae-Bank-Panic-9d350c8\Euflorae-Bank-Panic-9d350c8\Bank Panic\Bank Panic\bin\x86\Debug\Content\Images\CastleDoor1.xnb
+D:\PÓS\BankPanic - Versions\Euflorae-Bank-Panic-9d350c8\Euflorae-Bank-Panic-9d350c8\Bank Panic\Bank Panic\bin\x86\Debug\Content\Images\CastleDoor2.xnb
+D:\PÓS\BankPanic - Versions\Euflorae-Bank-Panic-9d350c8\Euflorae-Bank-Panic-9d350c8\Bank Panic\Bank Panic\bin\x86\Debug\Content\Images\Door.xnb
+D:\PÓS\BankPanic - Versions\Euflorae-Bank-Panic-9d350c8\Euflorae-Bank-Panic-9d350c8\Bank Panic\Bank Panic\bin\x86\Debug\Content\Images\sprDoor.xnb
+D:\PÓS\BankPanic - Versions\Euflorae-Bank-Panic-9d350c8\Euflorae-Bank-Panic-9d350c8\Bank Panic\Bank Panic\bin\x86\Debug\Content\Images\sprTarget.xnb
+D:\PÓS\BankPanic - Versions\Euflorae-Bank-Panic-9d350c8\Euflorae-Bank-Panic-9d350c8\Bank Panic\Bank Panic\bin\x86\Debug\Content\Images\background_full.xnb
+D:\PÓS\BankPanic - Versions\Euflorae-Bank-Panic-9d350c8\Euflorae-Bank-Panic-9d350c8\Bank Panic\Bank Panic\bin\x86\Debug\Bank Panic.exe
+D:\PÓS\BankPanic - Versions\Euflorae-Bank-Panic-9d350c8\Euflorae-Bank-Panic-9d350c8\Bank Panic\Bank Panic\bin\x86\Debug\Bank Panic.pdb
+D:\PÓS\BankPanic - Versions\Euflorae-Bank-Panic-9d350c8\Euflorae-Bank-Panic-9d350c8\Bank Panic\Bank Panic\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\PÓS\BankPanic - Versions\Euflorae-Bank-Panic-9d350c8\Euflorae-Bank-Panic-9d350c8\Bank Panic\Bank Panic\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\PÓS\BankPanic - Versions\Euflorae-Bank-Panic-9d350c8\Euflorae-Bank-Panic-9d350c8\Bank Panic\Bank Panic\bin\x86\Debug\Content\Images\doors.xnb
